@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BacpacEditor/1.0.0": {
+        "runtime": {
+          "BacpacEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BacpacEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

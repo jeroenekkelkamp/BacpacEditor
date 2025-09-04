@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BacpacEditor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\jeroe\\Downloads\\tcs-db01-old.bacpac\" \"--Views\" \"--StoredProcedures\" \"--Triggers\""
+    }
+  }
+}
